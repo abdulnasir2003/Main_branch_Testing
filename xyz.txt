@@ -1,14 +1,11 @@
 Hello This First git project using branch command!
 First Update
 
-<<<<<<< HEAD
+
 Hello, First Time we updating the second_main branch!
 
 Second Time we update the message and commit it!
-=======
-Hello 
- This is my First Time to main branch update!
 
-Hello gitFix Message!!!! 
->>>>>>> main
-Final result!
+Hello, This is my First Time to main branch update!
+
+Hello gitFix Message!!!! + Final result! 
