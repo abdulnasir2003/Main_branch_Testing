@@ -5,3 +5,4 @@ hear we have toking about the topic called merge function in git and git reposit
 -- Hello This Thired Commit on this Section!
 -- Hello for DBT for Purchesing the Computer and laptops
 -- Hello fourth time to changing this file!
+-m First Time Add
